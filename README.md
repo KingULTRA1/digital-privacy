@@ -33,7 +33,7 @@ Treat all applications as potential threats. Ask: *â€œIs this truly necessary?â€
 Digital fingerprints uniquely identify us. The solution is to obscure these signals.  
 
 **Action:**  
-- **Browser:** Brave, Firefox, or DuckDuckGo with uBlock Origin, Privacy Badger, and NoScript  
+- **Browser:** Brave or DuckDuckGo with uBlock Origin, Privacy Badger, and NoScript  
 - **Search:** DuckDuckGo or Startpage instead of Google  
 - **VPN:** Use a reputable, no-logs VPN  
 
