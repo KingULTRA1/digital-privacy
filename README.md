@@ -3,8 +3,7 @@
 
 ![Privacy](https://img.shields.io/badge/Privacy-Essential-blue)  
 ![Data Integrity](https://img.shields.io/badge/Data%20Integrity-Non--Negotiable-green)  
-![Surveillance Resistance](https://img.shields.io/badge/Surveillance-Resist-red)  
-
+![Surveillance Resistance](https://img.shields.io/badge/Surveillance-Resist-red) 
 
 
 ## 🌐 Introduction  
